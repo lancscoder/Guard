@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard", "Guard.csproj", "{9A065A1E-2709-4293-BDB0-041729E86A57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard", "Guard\Guard.csproj", "{9A065A1E-2709-4293-BDB0-041729E86A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard.Tests", "..\Guard.Tests\Guard.Tests.csproj", "{B1A33C07-12EC-49C5-9A6A-96FF216FB2DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard.Tests", "Guard.Tests\Guard.Tests.csproj", "{B1A33C07-12EC-49C5-9A6A-96FF216FB2DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
