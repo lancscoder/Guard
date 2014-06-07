@@ -1,5 +1,7 @@
 # A Simple .NET Guard Class
 
+[![Build status](https://ci.appveyor.com/api/projects/status/bnfvp4kdnmvutiiy)](https://ci.appveyor.com/project/lancscoder/guard)
+
 Allows chaining of conditions.
 
 ## Nuget
